@@ -19,7 +19,7 @@
                                 <rect key="frame" x="123" y="496" width="168" height="162"/>
                             </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="This is my dice " textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fYs-CV-b1n">
-                                <rect key="frame" x="30" y="74" width="354" height="758"/>
+                                <rect key="frame" x="30" y="74" width="354" height="748"/>
                                 <fontDescription key="fontDescription" name="SnellRoundhand" family="Snell Roundhand" pointSize="60"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
@@ -32,8 +32,6 @@
                             <constraint firstItem="syw-lx-aBb" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="bottom" constant="-400" id="6eD-DC-moJ"/>
                             <constraint firstItem="syw-lx-aBb" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="80R-WF-npy"/>
                             <constraint firstItem="fYs-CV-b1n" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="120" id="Dt2-kG-hBA"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="fYs-CV-b1n" secondAttribute="bottom" constant="120" id="HA5-Rc-eV4"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="fYs-CV-b1n" secondAttribute="bottom" constant="100" id="HsB-H3-bx0"/>
                             <constraint firstItem="fYs-CV-b1n" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="100" id="QX0-DZ-bzz"/>
                             <constraint firstItem="syw-lx-aBb" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="YVc-b9-6R1"/>
                             <constraint firstItem="fYs-CV-b1n" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="aqE-FH-xfO"/>
@@ -42,9 +40,7 @@
                             <constraint firstItem="syw-lx-aBb" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="fQ6-4q-2H0"/>
                             <constraint firstItem="syw-lx-aBb" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" constant="1" id="hIK-pB-KJe"/>
                             <constraint firstItem="fYs-CV-b1n" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="iAQ-Qs-uez"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="fYs-CV-b1n" secondAttribute="trailing" constant="30" id="iBN-3V-jQn"/>
                             <constraint firstItem="syw-lx-aBb" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="o4k-t1-NA1"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="fYs-CV-b1n" secondAttribute="bottom" constant="30" id="vet-OP-8Lo"/>
                             <constraint firstItem="fYs-CV-b1n" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="30" id="zGQ-d9-c2B"/>
                         </constraints>
                     </view>
